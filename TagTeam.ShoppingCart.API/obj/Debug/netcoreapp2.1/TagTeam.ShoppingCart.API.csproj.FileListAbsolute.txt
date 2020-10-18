@@ -1,0 +1,60 @@
+D:\My Works\TagTeam\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.csproj.CoreCompileInputs.cache
+D:\My Works\TagTeam\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.AssemblyInfoInputs.cache
+D:\My Works\TagTeam\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.AssemblyInfo.cs
+D:\My Works\TagTeam\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.Domain.dll
+D:\My Works\TagTeam\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.Service.dll
+D:\My Works\TagTeam\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.csprojAssemblyReference.cache
+D:\My Works\TagTeam\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.RazorAssemblyInfo.cache
+D:\My Works\TagTeam\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.RazorAssemblyInfo.cs
+D:\My Works\TagTeam\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.RazorTargetAssemblyInfo.cache
+D:\My Works\TagTeam\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.deps.json
+D:\My Works\TagTeam\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.runtimeconfig.json
+D:\My Works\TagTeam\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.runtimeconfig.dev.json
+D:\My Works\TagTeam\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.dll
+D:\My Works\TagTeam\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.pdb
+D:\My Works\TagTeam\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.Domain.pdb
+D:\My Works\TagTeam\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.Service.pdb
+D:\My Works\TagTeam\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\My Works\TagTeam\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.csproj.CopyComplete
+D:\My Works\TagTeam\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.dll
+D:\My Works\TagTeam\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.pdb
+D:\My Works\TagTeam\Shoppinf Cart\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.deps.json
+D:\My Works\TagTeam\Shoppinf Cart\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.runtimeconfig.json
+D:\My Works\TagTeam\Shoppinf Cart\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.runtimeconfig.dev.json
+D:\My Works\TagTeam\Shoppinf Cart\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.dll
+D:\My Works\TagTeam\Shoppinf Cart\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.pdb
+D:\My Works\TagTeam\Shoppinf Cart\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.Domain.dll
+D:\My Works\TagTeam\Shoppinf Cart\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.Service.dll
+D:\My Works\TagTeam\Shoppinf Cart\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.Domain.pdb
+D:\My Works\TagTeam\Shoppinf Cart\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.Service.pdb
+D:\My Works\TagTeam\Shoppinf Cart\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.csprojAssemblyReference.cache
+D:\My Works\TagTeam\Shoppinf Cart\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.csproj.CoreCompileInputs.cache
+D:\My Works\TagTeam\Shoppinf Cart\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.RazorAssemblyInfo.cache
+D:\My Works\TagTeam\Shoppinf Cart\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.RazorAssemblyInfo.cs
+D:\My Works\TagTeam\Shoppinf Cart\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\My Works\TagTeam\Shoppinf Cart\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.AssemblyInfoInputs.cache
+D:\My Works\TagTeam\Shoppinf Cart\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.AssemblyInfo.cs
+D:\My Works\TagTeam\Shoppinf Cart\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.RazorTargetAssemblyInfo.cache
+D:\My Works\TagTeam\Shoppinf Cart\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.csproj.CopyComplete
+D:\My Works\TagTeam\Shoppinf Cart\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.dll
+D:\My Works\TagTeam\Shoppinf Cart\Shopping Cart\API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.pdb
+E:\TagHold\Shopping Cart - ShoppingCart_API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.deps.json
+E:\TagHold\Shopping Cart - ShoppingCart_API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.runtimeconfig.json
+E:\TagHold\Shopping Cart - ShoppingCart_API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.runtimeconfig.dev.json
+E:\TagHold\Shopping Cart - ShoppingCart_API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.dll
+E:\TagHold\Shopping Cart - ShoppingCart_API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.pdb
+E:\TagHold\Shopping Cart - ShoppingCart_API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.Domain.dll
+E:\TagHold\Shopping Cart - ShoppingCart_API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.Service.dll
+E:\TagHold\Shopping Cart - ShoppingCart_API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.Domain.pdb
+E:\TagHold\Shopping Cart - ShoppingCart_API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\bin\Debug\netcoreapp2.1\TagTeam.ShoppingCart.Service.pdb
+E:\TagHold\Shopping Cart - ShoppingCart_API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.csprojAssemblyReference.cache
+E:\TagHold\Shopping Cart - ShoppingCart_API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.csproj.CoreCompileInputs.cache
+E:\TagHold\Shopping Cart - ShoppingCart_API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.RazorAssemblyInfo.cache
+E:\TagHold\Shopping Cart - ShoppingCart_API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.RazorAssemblyInfo.cs
+E:\TagHold\Shopping Cart - ShoppingCart_API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\TagHold\Shopping Cart - ShoppingCart_API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.AssemblyInfoInputs.cache
+E:\TagHold\Shopping Cart - ShoppingCart_API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.AssemblyInfo.cs
+E:\TagHold\Shopping Cart - ShoppingCart_API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.RazorTargetAssemblyInfo.cache
+E:\TagHold\Shopping Cart - ShoppingCart_API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.csproj.CopyComplete
+E:\TagHold\Shopping Cart - ShoppingCart_API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.dll
+E:\TagHold\Shopping Cart - ShoppingCart_API\TagTeam.ShoppingCart\TagTeam.ShoppingCart.API\obj\Debug\netcoreapp2.1\TagTeam.ShoppingCart.API.pdb
